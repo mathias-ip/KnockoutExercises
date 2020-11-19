@@ -1,0 +1,9 @@
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\bin\Debug\netstandard2.0\DataServiceLayer.deps.json
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\bin\Debug\netstandard2.0\DataServiceLayer.dll
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\bin\Debug\netstandard2.0\DataServiceLayer.pdb
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.csprojAssemblyReference.cache
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.AssemblyInfoInputs.cache
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.AssemblyInfo.cs
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.dll
+C:\Users\peter\Source\Repos\KnockoutExercises\DataServiceLayer\obj\Debug\netstandard2.0\DataServiceLayer.pdb
